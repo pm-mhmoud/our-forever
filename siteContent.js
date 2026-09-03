@@ -11,9 +11,10 @@ window.SITE_CONTENT = {
     eyebrow: 'A tiny universe made for two',
     lines: [
       'Hi, Riri.',
-      'This is our little corner of the world.',
-      'Just you, me, and everything in between.',
-      'Happy Birthday, Habibt Albi. ❤️'
+      'I made you something.',
+      'Not a gallery. Not a slideshow.',
+      'Just us, in words.',
+      'Happy Birthday, my love.'
     ],
     button: 'Enter Our World'
   },
